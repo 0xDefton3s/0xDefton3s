@@ -62,10 +62,6 @@ I believe in using the right tool for the right war. This is my toolkit.
     <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
 </p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-short.svg" width="100%">
-</div>
-
 ### `[ GITHUB ACTIVITY ]`
 
 <p align="center">
